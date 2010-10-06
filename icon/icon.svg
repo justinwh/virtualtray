@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<!--
+ Copyright (c) 2010 Justin Huntington
+ This file is licensed under the MIT license.  See the LICENSE file.
+-->
+
+<title>Virtualtray</title>
+
+<g fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" fill-rule="nonzero">
+
+<g stroke-width="8" stroke-linejoin="round" stroke-linecap="butt" stroke="#000" fill="#ddd" transform="translate(0, 12) translate(-13, -13) scale(1.1)">
+
+	<!--
+	red: #de1010
+	green: #018f01
+	-->
+	<ellipse cx="128" cy="202" rx="112" ry="24" fill="#de1010" stroke="#de1010"/>
+
+	<path d="M80 160L80 192S80 204 128 204S176 192 176 192L176 160"/>
+
+	<g stroke="none">
+		<path d="M32 32 L128 8L224 32L128 56Z"/>
+		<path d="M32 32 L128 56L128 186L32 160Z"/>
+		<path d="M224 32L224 160L128 186L128 56Z" fill="#888"/>
+	</g>
+
+	<path d="M32 32 L128 8L224 32L224 160L128 186L32 160ZM224 32L128 56L32 32M128 56L128 186" fill="none"/>
+
+	<g fill="#33b" stroke-width="16">
+<!--<path d="M32 32 L128 8L224 32L128 56Z" transform="translate(64, 16) scale(0.5)"/>-->
+		<path d="M32 32 L128 56L128 186L32 160Z" fill="#33b" transform="translate(40, 54) scale(0.5)"/>
+		<path d="M224 32L224 160L128 186L128 56Z" fill="#eee" transform="translate(89, 54) scale(0.5)"/>
+	</g>
+
+</g>
+
+</g>
+
+</svg>
+
