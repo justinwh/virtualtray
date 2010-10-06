@@ -70,5 +70,8 @@ Icon Editor Pro is a freeware ICO file editor, and was used to write out the fin
 
 
 
+License
+-------
+
 Copyright (c) 2010 Justin Huntington  
 This software is licensed under the MIT license.  See the LICENSE file.
