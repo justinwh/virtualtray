@@ -11,6 +11,11 @@ using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using VirtualBox;
 
+[assembly: AssemblyTitle("Virtualtray")]
+[assembly: AssemblyProduct("Virtualtray")]
+[assembly: AssemblyCopyright("© 2010 Justin Huntington, MIT license, http://github.com/justinwh")]
+[assembly: AssemblyVersion("1.0.*")]
+
 /* A running Virtualtray has one instance of this class to manage the icon & 
  * global menu items.  It creates one MachineMenu per VM, to manage each 
  * submenu.
