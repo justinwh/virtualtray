@@ -384,6 +384,7 @@ public class Virtualtray : ApplicationContext, IVirtualBoxCallback {
 			Process p = new Process();
 			p.StartInfo.FileName = path + "VBoxHeadless.exe";
 			p.StartInfo.Arguments = "--startvm " + _id + " --vrdp=config";
+			p.StartInfo.CreateNoWindow = true;
 			p.StartInfo.UseShellExecute = false;
 			p.Start();
 			
