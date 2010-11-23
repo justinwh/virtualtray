@@ -7,7 +7,7 @@ The executable is self-contained and has no external dependencies other than Vir
 
 To try it, download Virtualtray.exe from:
 
->  [http://github.com/downloads/justinwh/virtualtray/Virtualtray.exe/qr_code](http://github.com/downloads/justinwh/virtualtray/Virtualtray.exe/qr_code)
+>  [http://github.com/justinwh/virtualtray/downloads](http://github.com/justinwh/virtualtray/downloads)
 
 
 
